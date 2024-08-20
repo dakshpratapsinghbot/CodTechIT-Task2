@@ -21,3 +21,13 @@ The program performs basic error handling to ensure that grades are entered as v
 Program Execution:
 
 The main() function serves as the entry point of the program, executing the sequence of actions from data input to displaying the final results.
+
+
+![Screenshot 2024-08-20 220902](https://github.com/user-attachments/assets/5ffa40fc-1fec-4b3a-9e64-66e85f7ad639)
+
+
+
+
+
+
+
